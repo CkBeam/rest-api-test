@@ -1,0 +1,26 @@
+{
+  "addresses": [
+    {
+      "id": 1,
+      "value": "US%7CLP%7CB%7C63831103%7C14259_ENG"
+    },
+    {
+      "id": 2,
+      "value": "US%7CLP%7CB%7C6348745103%7C14969_ENG"
+    },
+    {
+      "value": "US%7CLP%7CB%7C6348623103%7C14969_ENG",
+      "id": 3
+    }
+  ],
+  "googleData": [
+    {
+      "id": 1,
+      "value": "dasdadsad-1a"
+    },
+    {
+      "id": 2,
+      "value": "dutnvesad-1a"
+    }
+  ]
+}
