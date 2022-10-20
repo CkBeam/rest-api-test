@@ -2,25 +2,18 @@
   "addresses": [
     {
       "id": 1,
-      "value": "US%7CLP%7CB%7C63831103%7C14259_ENG"
+      "value": "US%7CLP%7CB%7C63831103%7C14259_ENG",
+      "google-data": "dasdadsad-1a"
     },
     {
       "id": 2,
-      "value": "US%7CLP%7CB%7C6348745103%7C14969_ENG"
+      "value": "US%7CLP%7CB%7C6348745103%7C14969_ENG",
+      "google-data": "djsyrcsad-1a"
     },
     {
+      "id": 3,
       "value": "US%7CLP%7CB%7C6348623103%7C14969_ENG",
-      "id": 3
-    }
-  ],
-  "googleData": [
-    {
-      "id": 1,
-      "value": "dasdadsad-1a"
-    },
-    {
-      "id": 2,
-      "value": "dutnvesad-1a"
+      "google-data": "djutwqsad-1a"
     }
   ]
 }
